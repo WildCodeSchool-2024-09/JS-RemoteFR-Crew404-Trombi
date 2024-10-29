@@ -36,6 +36,7 @@ function App() {
 						github={student.github}
 						linkedin={student.linkedin}
 						avatar={student.avatar}
+						description={student.description}
 					/>
 				))}
 			</main>
