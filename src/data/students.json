@@ -6,7 +6,7 @@
 		"linkedin": "https://www.linkedin.com/in/ryan-decian-864696302/",
 		"avatar": "./assets/avatar/Ryan.jpg",
 		"description": "Le plaisir se ramasse, la joie se cueille et le bonheur se cultive !! ✨",
-		"city": "Juvignac (34990)"
+		"city": [43.62190270852418, 3.799309773191561]
 	},
 	{
 		"id": 2,
@@ -15,7 +15,7 @@
 		"linkedin": "https://www.linkedin.com/in/thomas-fortin-bourget-474763283/",
 		"avatar": "./assets/avatar/Thomas.jpg",
 		"description": "Casanier confirmé depuis 2003 je connais chaque recoin de ma maison, sinon j'aime bien les jeux vidéo et les mangas (j'ai dit que j'étais casanier ?).",
-		"city": "Orléans (45000)"
+		"city": [47.906308875837745, 1.917705069132086]
 	},
 	{
 		"id": 3,
@@ -24,7 +24,7 @@
 		"linkedin": "https://www.linkedin.com/in/camille-gueyraud-68264744/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"avatar": "./assets/avatar/CamilleG.jpeg",
 		"description": "En reconversion professionnelle après après quelques années au service des ressources humaines en tant que recruteuse.",
-		"city": "BAGNEUX 92250"
+		"city": [48.798371780451006, 2.312572931674104]
 	},
 	{
 		"id": 4,
@@ -33,7 +33,7 @@
 		"linkedin": "https://www.linkedin.com/in/charles-catto-72a230330/",
 		"avatar": "./assets/avatar/Charles.png",
 		"description": "Ancien AS, agent de sécurité, masseur et manutentionnaire, je me lance dans une nouvelle aventure !",
-		"city": "Cuinchy, 62149"
+		"city": [50.51816451529758, 2.7487622683113586]
 	},
 	{
 		"id": 5,
@@ -42,7 +42,7 @@
 		"linkedin": "https://www.linkedin.com/in/manon-moutier-7b645911b/",
 		"avatar": "./assets/avatar/Manon.jpeg",
 		"description": "En reconversion après plusieurs années en tant que chef de projet SIRH, je me forme aujourd'hui au développement full stack avec l'ambition de me spécialiser en front-end et web design. Dotée d'un sens aigu  de l'esthétique et du détail, ainsi que de solides capacités analytiques et logiques, j’apporte ces compétences à ce nouveau domaine avec pour objectif de concevoir des interfaces harmonieuses et fonctionnelles.",
-		"city": "RONCQ - 59223"
+		"city": [50.748189189825005, 3.127694382677102]
 	},
 	{
 		"id": 6,
@@ -51,7 +51,7 @@
 		"linkedin": "https://www.linkedin.com/in/rudy-robert/",
 		"avatar": "./assets/avatar/Rudy.png",
 		"description": "Ne regrette pas le passé, n’anticipe pas le futur, vis le présent intensément .",
-		"city": "Saint Joseph 97480"
+		"city": [-21.37393538750422, 55.61893459164851]
 	},
 	{
 		"id": 7,
@@ -60,7 +60,7 @@
 		"linkedin": "https://www.linkedin.com/in/antoine-chauvot-0b519032b/",
 		"avatar": "./assets/avatar/Antoine.jpg",
 		"description": "Développeur web, mais surtout développeur de bonne humeur 🙃",
-		"city": "Saint Samson de la Roque 27680"
+		"city": [49.41525228993182, 0.44088111659631224]
 	},
 	{
 		"id": 8,
@@ -69,7 +69,7 @@
 		"linkedin": "https://www.linkedin.com/in/nabil-afenich/",
 		"avatar": "./assets/avatar/Nabil.jpeg",
 		"description": "Cancer créatif et sensible, je puise mon inspiration dans l’émotion pour des projets authentiques et impactants.",
-		"city": "Basse-Goulaine 44115"
+		"city": [47.20942486101349, -1.4631487094345224]
 	},
 	{
 		"id": 9,
@@ -78,7 +78,7 @@
 		"linkedin": "https://www.linkedin.com/in/camille-lemort-562497162/",
 		"avatar": "./assets/avatar/CamilleL.png",
 		"description": "Je m'appelle Camille j'ai 32 ans, passionnée de ciné et séries, musique, mangas, lectures en tous genres, gaming et tatouage ! Et je collectionne les figurines de mes persos préférés :)\nSinon j'aime aussi cuisiner ! Surtout les desserts :D (oui, je suis gourmande)",
-		"city": "44400 Rezé !"
+		"city": [47.17419711562459, -1.5457146165102504]
 	},
 	{
 		"id": 10,
@@ -87,7 +87,7 @@
 		"linkedin": "https://www.linkedin.com/in/frank-sena-agbolosu-675112327/",
 		"avatar": "./assets/avatar/Frank.jpg",
 		"description": "Je suis actuellement en formation de développeur Web  à la Wild Code School. Après la dite formation, j'aimerais bien trouver une alternance pour approfondir mes connaissances.",
-		"city": "Nantes 44300"
+		"city": [47.24174141581605, -1.5295523006367349]
 	},
 	{
 		"id": 11,
@@ -96,7 +96,7 @@
 		"linkedin": "https://www.linkedin.com/in/julie-lohier-b71b711ab/",
 		"avatar": "./assets/avatar/Julie.jpg",
 		"description": "Dynamique et pleine d'envie d'apprendre je sais m'adapter a chaque situation. En pleine reconversion pro je suis motivée pour une nouvelle vie dans le monde des dev",
-		"city": "Pont-Saint-Martin (44860)"
+		"city": [47.12916246749697, -1.5826199470616364]
 	},
 	{
 		"id": 12,
@@ -105,7 +105,7 @@
 		"linkedin": "https://www.linkedin.com/in/joey-martin-5b566532a/",
 		"avatar": "./assets/avatar/Joey.jpg",
 		"description": "31 ans, passionné de jeu vidéo, cinéma,  et la musique. Je suis de nature curieux et j'aime beaucoup apprendre de nouvelles choses, quelque soit le domaine !",
-		"city": "La Chaize le vicomte 85310"
+		"city": [46.671283129847474, -1.293663849294867]
 	},
 	{
 		"id": 13,
@@ -114,7 +114,7 @@
 		"linkedin": "www.linkedin.com/in/nahi-marc-juvénal-gnaore",
 		"avatar": "./assets/avatar/Marc.jpg",
 		"description": "Coder 💻 c'est souvent faire la moue 😫, mais le résultat demeure  Wahoo !! 😇",
-		"city": "Epinay-sur-Seine 93800"
+		"city": [48.95411537076409, 2.3205227143337397]
 	},
 	{
 		"id": 14,
@@ -123,6 +123,6 @@
 		"linkedin": "https://www.linkedin.com/in/elodie-mons-7628b9b7/",
 		"avatar": "./assets/avatar/Elodie.jpeg",
 		"description": "La vie est simple, c'est l'homme qui la complique",
-		"city": "47300 Villeneuve sur Lot"
+		"city": [44.40987556880719, 0.7117131180189114]
 	}
 ]
