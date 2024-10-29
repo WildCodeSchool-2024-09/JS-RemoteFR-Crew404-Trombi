@@ -1,26 +1,28 @@
+import githubImg from "../assets/logos/gihub.svg";
+import linkedinImg from "../assets/logos/linkedin.png";
+
 interface CardInterface {
 	fullname: string;
 	github: string;
 	linkedin: string;
 	avatar: string;
-	description: string;
 }
 
-function Card({
-	fullname,
-	github,
-	linkedin,
-	avatar,
-	description,
-}: CardInterface) {
+function Card({ fullname, github, linkedin, avatar }: CardInterface) {
 	return (
 		<section className="card">
-			<img src={avatar} alt="avatar" />
+			<img src={avatar} alt={"avatar de " + fullname} />
 			<h1>{fullname}</h1>
-			<p>{description}</p>
 			<div className="links">
-				<a href={github}>Github</a>
-				<a href={linkedin}>LinkedIn</a>
+				<a href={github}>
+					<img src={githubImg} alt="lien vers mon profil github" />
+				</a>
+				<a href={linkedin}>
+					<img
+						src={linkedinImg}
+						alt="Lien vers mon profil linkedIn"
+					/>
+				</a>
 			</div>
 		</section>
 	);
