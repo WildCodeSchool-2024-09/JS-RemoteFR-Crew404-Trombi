@@ -12,7 +12,7 @@ function Card({ fullname, github, linkedin, avatar }: CardInterface) {
 	return (
 		<section className="card">
 			<img src={avatar} alt={"avatar de " + fullname} />
-			<h1>{fullname}</h1>
+			<h2>{fullname}</h2>
 			<div className="links">
 				<a href={github}>
 					<img src={githubImg} alt="lien vers mon profil github" />

@@ -16,10 +16,20 @@ Sanityze
 /**
 App.tsx
 */
+.container {
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+}
+
+.container h1 {
+	margin: 2rem 0;
+	text-align: center;
+}
 
 .cards {
 	width: 80%;
-	margin: 0 auto;
+	margin: 0 auto 5rem auto;
 	display: grid;
 	gap: 1.5rem;
 	grid-template-columns: repeat(3, 1fr);
@@ -52,12 +62,12 @@ Card.tsx
 	box-shadow: 0px 3px 12px 0px #c6c6c6;
 }
 
-.card h1,
+.card h2,
 .card p {
 	margin: 0.5rem 0;
 }
 
-.card h1 {
+.card h2 {
 	text-decoration: underline;
 	cursor: pointer;
 }
@@ -86,10 +96,11 @@ Footer
 */
 footer {
 	display: flex;
+
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin-top: 5rem;
+	margin-top: auto;
 	padding: 2.5rem;
 	background-color: var(--primary-color);
 }
