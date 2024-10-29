@@ -4,7 +4,7 @@
 		"fullname": "Ryan DECIAN",
 		"github": "https://github.com/ryandecian",
 		"linkedin": "https://www.linkedin.com/in/ryan-decian-864696302/",
-		"avatar": "https://drive.google.com/open?id=1kfFGvKJuN9oWENonWrYD9jeGYnL9nZOz",
+		"avatar": "./assets/avatar/Ryan.jpg",
 		"description": "Le plaisir se ramasse, la joie se cueille et le bonheur se cultive !! ✨",
 		"city": "Juvignac (34990)"
 	},
@@ -13,7 +13,7 @@
 		"fullname": "Thomas Fortin",
 		"github": "https://github.com/NzlThomas",
 		"linkedin": "https://www.linkedin.com/in/thomas-fortin-bourget-474763283/",
-		"avatar": "https://drive.google.com/open?id=1GKJQW-mFquPW3H8pWFEpmMbMMEoYznjU",
+		"avatar": "./assets/avatar/Thomas.jpg",
 		"description": "Casanier confirmé depuis 2003 je connais chaque recoin de ma maison, sinon j'aime bien les jeux vidéo et les mangas (j'ai dit que j'étais casanier ?).",
 		"city": "Orléans (45000)"
 	},
@@ -22,7 +22,7 @@
 		"fullname": "Camille Gueyraud",
 		"github": "https://github.com/cgyrd",
 		"linkedin": "https://www.linkedin.com/in/camille-gueyraud-68264744/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-		"avatar": "https://drive.google.com/open?id=1uZCsRPjfnqe2jx_pgnnyMd1F0OJs_sTb",
+		"avatar": "./assets/avatar/CamilleG.jpeg",
 		"description": "En reconversion professionnelle après après quelques années au service des ressources humaines en tant que recruteuse.",
 		"city": "BAGNEUX 92250"
 	},
@@ -31,7 +31,7 @@
 		"fullname": "Charles Catto",
 		"github": "https://github.com/CharlesCatto",
 		"linkedin": "https://www.linkedin.com/in/charles-catto-72a230330/",
-		"avatar": "https://drive.google.com/open?id=1SNnNqBVH2iWfTq1Lfn7jpAeua44eUyzt",
+		"avatar": "./assets/avatar/Charles.png",
 		"description": "Ancien AS, agent de sécurité, masseur et manutentionnaire, je me lance dans une nouvelle aventure !",
 		"city": "Cuinchy, 62149"
 	},
@@ -40,7 +40,7 @@
 		"fullname": "Manon Moutier",
 		"github": "https://github.com/Maanon22",
 		"linkedin": "https://www.linkedin.com/in/manon-moutier-7b645911b/",
-		"avatar": "https://drive.google.com/open?id=1HkeYFeMT1EojXo0pWMnWNIMA3h23vK32",
+		"avatar": "./assets/avatar/Manon.jpeg",
 		"description": "En reconversion après plusieurs années en tant que chef de projet SIRH, je me forme aujourd'hui au développement full stack avec l'ambition de me spécialiser en front-end et web design. Dotée d'un sens aigu  de l'esthétique et du détail, ainsi que de solides capacités analytiques et logiques, j’apporte ces compétences à ce nouveau domaine avec pour objectif de concevoir des interfaces harmonieuses et fonctionnelles.",
 		"city": "RONCQ - 59223"
 	},
@@ -49,7 +49,7 @@
 		"fullname": "Rudy Robert",
 		"github": "https://github.com/rudy-flexcode",
 		"linkedin": "https://www.linkedin.com/in/rudy-robert/",
-		"avatar": "https://drive.google.com/open?id=1a-fomfj1a_C9SlcZN8MVyekf1xE8MmeN",
+		"avatar": "./assets/avatar/Rudy.png",
 		"description": "Ne regrette pas le passé, n’anticipe pas le futur, vis le présent intensément .",
 		"city": "Saint Joseph 97480"
 	},
@@ -58,7 +58,7 @@
 		"fullname": "Antoine Chauvot",
 		"github": "https://github.com/Antoine227",
 		"linkedin": "https://www.linkedin.com/in/antoine-chauvot-0b519032b/",
-		"avatar": "https://drive.google.com/open?id=1NvzzOEnh3nJe0ekCH5XyL8HNS6bJXSpK",
+		"avatar": "./assets/avatar/Antoine.jpg",
 		"description": "Développeur web, mais surtout développeur de bonne humeur 🙃",
 		"city": "Saint Samson de la Roque 27680"
 	},
@@ -67,7 +67,7 @@
 		"fullname": "Nabil Afenich",
 		"github": "https://github.com/nabil2a",
 		"linkedin": "https://www.linkedin.com/in/nabil-afenich/",
-		"avatar": "https://drive.google.com/open?id=1cx49RkgiSBk-zR0WznxQcCKKxHlCGzWk",
+		"avatar": "./assets/avatar/Nabil.jpeg",
 		"description": "Cancer créatif et sensible, je puise mon inspiration dans l’émotion pour des projets authentiques et impactants.",
 		"city": "Basse-Goulaine 44115"
 	},
@@ -76,7 +76,7 @@
 		"fullname": "Camille Lemort",
 		"github": "https://github.com/Cookiedought",
 		"linkedin": "https://www.linkedin.com/in/camille-lemort-562497162/",
-		"avatar": "https://drive.google.com/open?id=1Hh23xo3dZ1SVd6_hCwAMKKh856Fd6en1",
+		"avatar": "./assets/avatar/CamilleL.png",
 		"description": "Je m'appelle Camille j'ai 32 ans, passionnée de ciné et séries, musique, mangas, lectures en tous genres, gaming et tatouage ! Et je collectionne les figurines de mes persos préférés :)\nSinon j'aime aussi cuisiner ! Surtout les desserts :D (oui, je suis gourmande)",
 		"city": "44400 Rezé !"
 	},
@@ -85,7 +85,7 @@
 		"fullname": "Frank Sena AGBOLOSU",
 		"github": "https://github.com/franksena",
 		"linkedin": "https://www.linkedin.com/in/frank-sena-agbolosu-675112327/",
-		"avatar": "https://drive.google.com/open?id=1S-Zq7x0J1Utd8vWvED-ftDnCBOL7R5Q4",
+		"avatar": "./assets/avatar/Frank.jpg",
 		"description": "Je suis actuellement en formation de développeur Web  à la Wild Code School. Après la dite formation, j'aimerais bien trouver une alternance pour approfondir mes connaissances.",
 		"city": "Nantes 44300"
 	},
@@ -94,7 +94,7 @@
 		"fullname": "Julie Lohier",
 		"github": "https://github.com/Juloh-tuc",
 		"linkedin": "https://www.linkedin.com/in/julie-lohier-b71b711ab/",
-		"avatar": "https://drive.google.com/open?id=1iwE_EmZwazjtMUk1Lf4dgmAwpP3QpGE5",
+		"avatar": "./assets/avatar/Julie.jpg",
 		"description": "Dynamique et pleine d'envie d'apprendre je sais m'adapter a chaque situation. En pleine reconversion pro je suis motivée pour une nouvelle vie dans le monde des dev",
 		"city": "Pont-Saint-Martin (44860)"
 	},
@@ -103,7 +103,7 @@
 		"fullname": "Joey Martin",
 		"github": "https://github.com/Joey-dev85",
 		"linkedin": "https://www.linkedin.com/in/joey-martin-5b566532a/",
-		"avatar": "https://drive.google.com/open?id=1jgdP-ITxMYoxlFZf6FyfCxehu5kkWxAg",
+		"avatar": "./assets/avatar/Joey.jpg",
 		"description": "31 ans, passionné de jeu vidéo, cinéma,  et la musique. Je suis de nature curieux et j'aime beaucoup apprendre de nouvelles choses, quelque soit le domaine !",
 		"city": "La Chaize le vicomte 85310"
 	},
@@ -112,7 +112,7 @@
 		"fullname": "Nahi Marc-Juvénal GNAORE",
 		"github": "https://github.com/Marc-Juvenal",
 		"linkedin": "www.linkedin.com/in/nahi-marc-juvénal-gnaore",
-		"avatar": "https://drive.google.com/open?id=1o3n3XIfABXgJLcKHuAk1Vj_hM8TvwiWS",
+		"avatar": "./assets/avatar/Marc.jpg",
 		"description": "Coder 💻 c'est souvent faire la moue 😫, mais le résultat demeure  Wahoo !! 😇",
 		"city": "Epinay-sur-Seine 93800"
 	},
@@ -121,7 +121,7 @@
 		"fullname": "Elodie Mons",
 		"github": "https://github.com/ElodieMons",
 		"linkedin": "https://www.linkedin.com/in/elodie-mons-7628b9b7/",
-		"avatar": "https://drive.google.com/open?id=1kkCR1kY2xBbbK23OnqgS6dU2v2MLN5Xh",
+		"avatar": "./assets/avatar/Elodie.jpeg",
 		"description": "La vie est simple, c'est l'homme qui la complique",
 		"city": "47300 Villeneuve sur Lot"
 	}

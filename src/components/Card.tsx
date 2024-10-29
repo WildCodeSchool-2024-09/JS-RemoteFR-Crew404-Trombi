@@ -1,14 +1,27 @@
-function Card() {
+interface CardInterface {
+	fullname: string;
+	github: string;
+	linkedin: string;
+	avatar: string;
+	description: string;
+}
+
+function Card({
+	fullname,
+	github,
+	linkedin,
+	avatar,
+	description,
+}: CardInterface) {
 	return (
 		<section className="card">
-			<img src="https://picsum.photos/1200/900" alt="avatar" />
-			<h1>Anthony Gorski</h1>
-			<p>
-				Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum,
-				dicta soluta praesentium, fuga similique accusantium error
-				molestias a reiciendis aspernatur consequatur iure, temporibus
-				iusto illo? Voluptates tempore modi quidem dolore!
-			</p>
+			<img src={avatar} alt="avatar" />
+			<h1>{fullname}</h1>
+			<p>{description}</p>
+			<div className="links">
+				<a href={github}>Github</a>
+				<a href={linkedin}>LinkedIn</a>
+			</div>
 		</section>
 	);
 }

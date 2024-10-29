@@ -1,4 +1,5 @@
 import Card from "./components/Card";
+import students from "./data/students.json";
 
 function App() {
 	return (
@@ -9,10 +10,15 @@ function App() {
 				className="search"
 			/>
 			<main className="container">
-				<Card />
-				<Card />
-				<Card />
-				<Card />
+				{students.map((student) => (
+					<Card
+						fullname={student.fullname}
+						github={student.github}
+						linkedin={student.linkedin}
+						avatar={student.avatar}
+						description={student.description}
+					/>
+				))}
 			</main>
 		</div>
 	);

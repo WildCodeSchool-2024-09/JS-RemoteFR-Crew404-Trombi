@@ -9,6 +9,10 @@ App.tsx
 	display: grid;
 	gap: 1.5rem;
 	grid-template-columns: repeat(3, 1fr);
+
+	@media screen and (max-width: 768px) {
+		grid-template-columns: repeat(1, 1fr);
+	}
 }
 
 .search {
@@ -32,6 +36,23 @@ Card.tsx
 	box-shadow: 0px 3px 12px 0px #c6c6c6;
 }
 
+.card p {
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
 .card img {
 	max-width: 200px;
+	max-height: 200px;
+}
+
+.links {
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+}
+
+.links a {
+	color: black;
+	text-decoration: none;
 }
