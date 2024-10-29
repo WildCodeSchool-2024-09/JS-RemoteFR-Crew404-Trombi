@@ -1,7 +1,19 @@
+import Card from "./components/Card";
+
 function App() {
 	return (
 		<div>
-			<h1>coucou</h1>
+			<input
+				type="text"
+				placeholder="Rechercher un étudiant 🔍"
+				className="search"
+			/>
+			<main className="container">
+				<Card />
+				<Card />
+				<Card />
+				<Card />
+			</main>
 		</div>
 	);
 }

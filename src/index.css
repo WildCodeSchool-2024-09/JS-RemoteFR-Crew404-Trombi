@@ -1,0 +1,37 @@
+/**
+App.tsx
+*/
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+
+	display: grid;
+	gap: 1.5rem;
+	grid-template-columns: repeat(3, 1fr);
+}
+
+.search {
+	width: 80%;
+	margin: 2rem auto;
+	padding: 1rem;
+}
+
+/**
+Card.tsx
+*/
+.card {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+	background-color: #f5f5f5;
+	padding: 1rem;
+	border-radius: 10px;
+	box-shadow: 0px 3px 12px 0px #c6c6c6;
+}
+
+.card img {
+	max-width: 200px;
+}
